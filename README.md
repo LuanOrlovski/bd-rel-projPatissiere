@@ -1,4 +1,4 @@
-# bd-rel-projPatissiere
+# Banco de Dados Relacional projPatissiere
 banco de dados para gestão de uma confeitaria (projeto acad)
 
 A modelagem de dados para o sistema da loja ficticia Pâtisserie Confeitaria Gourmet.
